@@ -1,3 +1,4 @@
 # AnalizaBesed
-repko z programom za analizo bes
-avtor: prof. Marc
+to je repko (karkol je ze to) za analizo bes, ki smo jo nardil na vajcah
+avtorji: studenti
+(rdeca lucka od raca mi zoprno sveti v glavo)
